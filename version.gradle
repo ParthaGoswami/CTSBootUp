@@ -1,0 +1,5 @@
+ext {
+    springBootVersion = "2.2.9.RELEASE"
+    springDependencyManagementVersion = "1.0.9.RELEASE"
+    mysqlConnectorVersion = "8.0.20"
+}

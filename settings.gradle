@@ -1,3 +1,6 @@
 rootProject.name = 'BootUpMsvc'
 include 'ProductCatalogService'
+include 'PriceService'
+include 'CartService'
+include 'OrderService'
 
